@@ -1,0 +1,66 @@
+Change Component Footprint: Designator=L1 Old Footprint=L-SMD-M-4.8x4.8x2.8mm New Footprint=L_SMD 12x12
+Change Component Footprint: Designator=L2 Old Footprint=L-SMD-M-4.8x4.8x2.8mm New Footprint=L_SMD 12x12
+Change Component Footprint: Designator=L3 Old Footprint=L-SMD-M-4.8x4.8x2.8mm New Footprint=L_SMD 12x12
+Change Component Footprint: Designator=L4 Old Footprint=L-SMD-M-4.8x4.8x2.8mm New Footprint=L_SMD 12x12
+Added Component: Designator=Hole1(HOLE_SPACE)
+Added Component: Designator=Hole2(HOLE_SPACE)
+Added Component: Designator=Hole3(HOLE_SPACE)
+Added Component: Designator=Hole4(HOLE_SPACE)
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin LED4-1
+Add Pin To Net: Unknown Pin: Pin LED4-2
+Add Pin To Net: Unknown Pin: Pin LED5-1
+Add Pin To Net: Unknown Pin: Pin LED5-2
+Add Pin To Net: Unknown Pin: Pin LED6-1
+Add Pin To Net: Unknown Pin: Pin LED6-2
+Add Pin To Net: Unknown Pin: Pin LED7-1
+Add Pin To Net: Unknown Pin: Pin LED7-2
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Net: Name=PROTECT_EMI
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C87 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C91 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C95 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C113 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C118 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C121 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C167 4.7uF 25V

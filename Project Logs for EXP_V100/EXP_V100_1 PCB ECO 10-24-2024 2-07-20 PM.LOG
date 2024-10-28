@@ -1,0 +1,59 @@
+Added Component: Designator=Hole1(HOLE_SPACE)
+Added Component: Designator=Hole2(HOLE_SPACE)
+Added Component: Designator=Hole3(HOLE_SPACE)
+Added Component: Designator=Hole4(HOLE_SPACE)
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin LED4-1
+Add Pin To Net: Unknown Pin: Pin LED4-2
+Add Pin To Net: Unknown Pin: Pin LED5-1
+Add Pin To Net: Unknown Pin: Pin LED5-2
+Add Pin To Net: Unknown Pin: Pin LED6-1
+Add Pin To Net: Unknown Pin: Pin LED6-2
+Add Pin To Net: Unknown Pin: Pin LED7-1
+Add Pin To Net: Unknown Pin: Pin LED7-2
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole2-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole3-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole4-1
+Added Net: Name=PROTECT_EMI
+Added Member To Class: ClassName=HEADERSchDoc Member=Component Hole1 hole_space
+Added Member To Class: ClassName=HEADERSchDoc Member=Component Hole2 hole_space
+Added Member To Class: ClassName=HEADERSchDoc Member=Component Hole3 hole_space
+Added Member To Class: ClassName=HEADERSchDoc Member=Component Hole4 hole_space

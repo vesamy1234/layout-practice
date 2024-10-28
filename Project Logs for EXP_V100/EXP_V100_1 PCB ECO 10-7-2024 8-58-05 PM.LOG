@@ -1,0 +1,702 @@
+Removed Pin From Net: NetName=HEATER_1_A Pin=23-1
+Removed Pin From Net: NetName=HEATER_1_K Pin=23-2
+Removed Pin From Net: NetName=HEATER_1_A Pin=23-3
+Removed Pin From Net: NetName=HEATER_2_K Pin=23-4
+Removed Pin From Net: NetName=HEATER_1_A Pin=23-5
+Removed Pin From Net: NetName=HEATER_3_K Pin=23-6
+Removed Pin From Net: NetName=HEATER_1_A Pin=23-7
+Removed Pin From Net: NetName=HEATER_4_K Pin=23-8
+Removed Pin From Net: NetName=NTC4- Pin=23-11
+Removed Pin From Net: NetName=TEC_4_B Pin=23-12
+Removed Pin From Net: NetName=3V3_EXP Pin=23-13
+Removed Pin From Net: NetName=TEC_4_A Pin=23-14
+Removed Pin From Net: NetName=NTC3- Pin=23-15
+Removed Pin From Net: NetName=TEC_3_B Pin=23-16
+Removed Pin From Net: NetName=3V3_EXP Pin=23-17
+Removed Pin From Net: NetName=TEC_3_A Pin=23-18
+Removed Pin From Net: NetName=NTC2- Pin=23-19
+Removed Pin From Net: NetName=TEC_2_B Pin=23-20
+Removed Pin From Net: NetName=3V3_EXP Pin=23-21
+Removed Pin From Net: NetName=TEC_2_A Pin=23-22
+Removed Pin From Net: NetName=NTC1- Pin=23-23
+Removed Pin From Net: NetName=TEC_1_B Pin=23-24
+Removed Pin From Net: NetName=3V3_EXP Pin=23-25
+Removed Pin From Net: NetName=TEC_1_A Pin=23-26
+Removed Pin From Net: NetName=+5_LED Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=+5_LED Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=+5_LED Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=+5_LED Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C54-1
+Removed Pin From Net: NetName=GND Pin=C56-1
+Removed Pin From Net: NetName=GND Pin=C62-1
+Removed Pin From Net: NetName=GND Pin=C64-1
+Removed Pin From Net: NetName=GND Pin=C102-1
+Removed Pin From Net: NetName=GND Pin=C106-1
+Removed Pin From Net: NetName=GND Pin=C108-1
+Removed Pin From Net: NetName=GND Pin=C120-1
+Removed Pin From Net: NetName=GND Pin=C122-1
+Removed Pin From Net: NetName=GND Pin=C130-1
+Removed Pin From Net: NetName=GND Pin=C132-1
+Removed Pin From Net: NetName=HEATER_1_A Pin=C135-2
+Removed Pin From Net: NetName=GND Pin=C136-1
+Removed Pin From Net: NetName=GND Pin=C161-1
+Removed Pin From Net: NetName=HEATER_1_A Pin=C161-2
+Removed Pin From Net: NetName=IR_LED_1- Pin=H1-1
+Removed Pin From Net: NetName=IR_LED_2+ Pin=H1-2
+Removed Pin From Net: NetName=IR_LED_1+ Pin=H1-3
+Removed Pin From Net: NetName=IR_LED_2- Pin=H1-4
+Removed Pin From Net: NetName=IR_LED_4- Pin=H1-5
+Removed Pin From Net: NetName=IR_LED_3+ Pin=H1-6
+Removed Pin From Net: NetName=IR_LED_4+ Pin=H1-7
+Removed Pin From Net: NetName=IR_LED_3- Pin=H1-8
+Removed Pin From Net: NetName=VBUS Pin=H4-1
+Removed Pin From Net: NetName=GND_BUS Pin=H4-11
+Removed Pin From Net: NetName=5_EXP Pin=H4-23
+Removed Pin From Net: NetName=GND Pin=H4-24
+Removed Pin From Net: NetName=12_EXP Pin=H4-27
+Removed Pin From Net: NetName=GND_12_EXP Pin=H4-28
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=HEATER_1_K Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=HEATER_3_K Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=HEATER_4_K Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=HEATER_2_K Pin=Q4-2
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Pin From Net: NetName=EXP_UART_TX Pin=R26-1
+Removed Pin From Net: NetName=EXP_UART_RX Pin=R28-1
+Removed Pin From Net: NetName=HEATER_PWM_1 Pin=R75-1
+Removed Pin From Net: NetName=HEATER_PWM_3 Pin=R76-1
+Removed Pin From Net: NetName=GND Pin=R77-2
+Removed Pin From Net: NetName=GND Pin=R78-2
+Removed Pin From Net: NetName=HEATER_PWM_4 Pin=R79-1
+Removed Pin From Net: NetName=HEATER_PWM_2 Pin=R80-1
+Removed Pin From Net: NetName=GND Pin=R81-2
+Removed Pin From Net: NetName=GND Pin=R82-2
+Removed Pin From Net: NetName=NetJ2_3 Pin=TVS20-1
+Removed Pin From Net: NetName=NetJ2_4 Pin=TVS20-2
+Removed Pin From Net: NetName=3V3_EXP Pin=TVS23-1
+Removed Pin From Net: NetName=NetJ2_2 Pin=TVS23-2
+Removed Pin From Net: NetName=LED_G Pin=U19-1
+Removed Pin From Net: NetName=LED_B Pin=U19-2
+Removed Pin From Net: NetName=EF_LED_ADC Pin=U19-15
+Removed Pin From Net: NetName=EF_TEC_ADC Pin=U19-16
+Removed Pin From Net: NetName=EF_HEATER_ADC Pin=U19-17
+Removed Pin From Net: NetName=WD_DONE Pin=U19-18
+Removed Pin From Net: NetName=ADC_TEMP1 Pin=U19-24
+Removed Pin From Net: NetName=ADC_TEMP2 Pin=U19-25
+Removed Pin From Net: NetName=ADC_TEMP3 Pin=U19-26
+Removed Pin From Net: NetName=ADC_TEMP4 Pin=U19-29
+Removed Pin From Net: NetName=TEC_SCK Pin=U19-30
+Removed Pin From Net: NetName=TEC_MISO Pin=U19-31
+Removed Pin From Net: NetName=TEC_MOSI Pin=U19-32
+Removed Pin From Net: NetName=TEC_1_ADC Pin=U19-33
+Removed Pin From Net: NetName=TEC_2_ADC Pin=U19-34
+Removed Pin From Net: NetName=TEC_3_ADC Pin=U19-35
+Removed Pin From Net: NetName=TEC_4_ADC Pin=U19-36
+Removed Pin From Net: NetName=SENSOR1_EN Pin=U19-38
+Removed Pin From Net: NetName=SENSOR2_EN Pin=U19-39
+Removed Pin From Net: NetName=IR_LED_1_PWM Pin=U19-40
+Removed Pin From Net: NetName=IR_LED_2_PWM Pin=U19-42
+Removed Pin From Net: NetName=TEC_1_C\S\ Pin=U19-43
+Removed Pin From Net: NetName=IR_LED_3_PWM Pin=U19-44
+Removed Pin From Net: NetName=IR_LED_4_PWM Pin=U19-45
+Removed Pin From Net: NetName=TEC_1_SWEN Pin=U19-55
+Removed Pin From Net: NetName=TEC_2_C\S\ Pin=U19-56
+Removed Pin From Net: NetName=TEC_1_EN Pin=U19-57
+Removed Pin From Net: NetName=TEC_3_C\S\ Pin=U19-58
+Removed Pin From Net: NetName=TEC_2_SWEN Pin=U19-59
+Removed Pin From Net: NetName=TEC_4_C\S\ Pin=U19-60
+Removed Pin From Net: NetName=TEC_2_EN Pin=U19-61
+Removed Pin From Net: NetName=TEC_3_SWEN Pin=U19-62
+Removed Pin From Net: NetName=HEATER_PWM_1 Pin=U19-63
+Removed Pin From Net: NetName=HEATER_PWM_2 Pin=U19-64
+Removed Pin From Net: NetName=HEATER_PWM_3 Pin=U19-65
+Removed Pin From Net: NetName=HEATER_PWM_4 Pin=U19-66
+Removed Pin From Net: NetName=TEC_3_EN Pin=U19-67
+Removed Pin From Net: NetName=EXP_RS485_TX Pin=U19-68
+Removed Pin From Net: NetName=EXP_RS485_RX Pin=U19-69
+Removed Pin From Net: NetName=TEC_4_SWEN Pin=U19-70
+Removed Pin From Net: NetName=TEC_4_EN Pin=U19-71
+Removed Pin From Net: NetName=EXP_RS485_DE Pin=U19-77
+Removed Pin From Net: NetName=EF_HEATER_EN Pin=U19-80
+Removed Pin From Net: NetName=EF_HEATER_AUX Pin=U19-81
+Removed Pin From Net: NetName=EF_TEC_EN Pin=U19-82
+Removed Pin From Net: NetName=EXP_RS485_R\E\ Pin=U19-83
+Removed Pin From Net: NetName=EF_TEC_AUX Pin=U19-84
+Removed Pin From Net: NetName=EF_LED_AUX Pin=U19-85
+Removed Pin From Net: NetName=EF_LED_EN Pin=U19-86
+Removed Member From Class: ClassName=HEADERSchDoc Member=23
+Removed Member From Class: ClassName=LED Member=C22
+Removed Member From Class: ClassName=LED Member=C26
+Removed Member From Class: ClassName=LED Member=C34
+Removed Member From Class: ClassName=LED Member=C36
+Removed Member From Class: ClassName=NTC Member=C48
+Removed Member From Class: ClassName=NTC Member=C50
+Removed Member From Class: ClassName=NTC Member=C54
+Removed Member From Class: ClassName=NTC Member=C56
+Removed Member From Class: ClassName=NTC Member=C62
+Removed Member From Class: ClassName=NTC Member=C64
+Removed Member From Class: ClassName=NTC Member=C68
+Removed Member From Class: ClassName=NTC Member=C70
+Removed Member From Class: ClassName=TECS_DRIVER Member=C88
+Removed Member From Class: ClassName=TECS_DRIVER Member=C90
+Removed Member From Class: ClassName=TECS_DRIVER Member=C96
+Removed Member From Class: ClassName=TECS_DRIVER Member=C98
+Removed Member From Class: ClassName=TECS_DRIVER Member=C102
+Removed Member From Class: ClassName=TECS_DRIVER Member=C103
+Removed Member From Class: ClassName=TECS_DRIVER Member=C106
+Removed Member From Class: ClassName=TECS_DRIVER Member=C108
+Removed Member From Class: ClassName=HEATER Member=C135
+Removed Member From Class: ClassName=HEATER Member=C136
+Removed Member From Class: ClassName=HEATER Member=C161
+Removed Member From Class: ClassName=LED Member=H1
+Removed Member From Class: ClassName=MCU Member=J1
+Removed Member From Class: ClassName=HEATER Member=Q1
+Removed Member From Class: ClassName=HEATER Member=Q2
+Removed Member From Class: ClassName=HEATER Member=Q3
+Removed Member From Class: ClassName=HEATER Member=Q4
+Change Component Footprint: Designator=D4 Old Footprint=DO214 New Footprint=sod-123
+Change Component Footprint: Designator=D5 Old Footprint=DO214 New Footprint=sod-123
+Change Component Footprint: Designator=D6 Old Footprint=DO214 New Footprint=sod-123
+Change Component Footprint: Designator=D7 Old Footprint=DO214 New Footprint=sod-123
+Change Component Footprint: Designator=J2 Old Footprint=JP5-D1C New Footprint=JP5-D1T
+Change Footprint: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Change Footprint: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Change Footprint: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Change Footprint: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Change Component Footprint: Designator=H1 Old Footprint=m80-8280842 New Footprint=M80-8281642
+Change Component Footprint: Designator=R77 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-1206
+Change Component Footprint: Designator=R78 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-1206
+Change Component Footprint: Designator=C23 Old Footprint=TANtalum_SMD_1206 New Footprint=CN-SMD-0603
+Change Component Footprint: Designator=C24 Old Footprint=TANtalum_SMD_1206 New Footprint=CN-SMD-0603
+Change Component Footprint: Designator=C25 Old Footprint=TANtalum_SMD_1206 New Footprint=CN-SMD-0603
+Change Component Footprint: Designator=C26 Old Footprint=TANtalum_SMD_1206 New Footprint=CN-SMD-0603
+Change Component Comment : Designator=C11 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C12 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C13 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C14 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C47 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C49 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C51 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C52 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C53 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C55 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C57 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C58 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C59 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C60 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C61 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C63 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C65 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C66 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C67 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C69 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C71 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C72 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C77 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C78 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C79 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C80 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C81 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C82 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C83 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C84 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C91 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C92 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C93 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C94 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C115 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C116 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C117 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C118 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C139 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C142 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C143 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C146 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C147 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C148 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C149 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C150 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C151 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C152 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C153 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C154 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C155 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C157 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C169 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C170 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C171 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C172 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C173 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C174 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C175 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C176 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C177 Old Comment=0.1uF 25V New Comment=0.22uF 25V
+Change Component Comment : Designator=C54 Old Comment=0.1uF 25V New Comment=1uF 25V
+Change Component Comment : Designator=C56 Old Comment=0.1uF 25V New Comment=1uF 25V
+Change Component Comment : Designator=C62 Old Comment=0.1uF 25V New Comment=1uF 25V
+Change Component Comment : Designator=C64 Old Comment=0.1uF 25V New Comment=1uF 25V
+Change Component Comment : Designator=C106 Old Comment=0.1uF 25V New Comment=1uF 25V
+Change Component Comment : Designator=C108 Old Comment=0.1uF 25V New Comment=1uF 25V
+Change Component Comment : Designator=C20 Old Comment=0.1uF 25V New Comment=4.7uF 25V
+Change Component Comment : Designator=C22 Old Comment=0.1uF 25V New Comment=4.7uF 25V
+Change Component Comment : Designator=C68 Old Comment=0.1uF 25V New Comment=4.7uF 25V
+Change Component Comment : Designator=C70 Old Comment=0.1uF 25V New Comment=4.7uF 25V
+Change Component Comment : Designator=C105 Old Comment=0.1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C107 Old Comment=0.1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C112 Old Comment=0.1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C114 Old Comment=0.1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C120 Old Comment=0.1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C122 Old Comment=0.1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C129 Old Comment=0.1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C130 Old Comment=0.1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C131 Old Comment=0.1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C132 Old Comment=0.1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C48 Old Comment=0.1uF 25V New Comment=470nF 25V
+Change Component Comment : Designator=C50 Old Comment=0.1uF 25V New Comment=470nF 25V
+Change Component Comment : Designator=C96 Old Comment=0.1uF 25V New Comment=470nF 25V
+Change Component Comment : Designator=C98 Old Comment=0.1uF 25V New Comment=470nF 25V
+Change Component Comment : Designator=C125 Old Comment=1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C127 Old Comment=1uF 25V New Comment=47nF 25V
+Change Component Comment : Designator=C27 Old Comment=1uF 25V New Comment=470nF 25V
+Change Component Comment : Designator=C28 Old Comment=1uF 25V New Comment=470nF 25V
+Change Component Comment : Designator=C41 Old Comment=1uF 25V New Comment=470nF 25V
+Change Component Comment : Designator=C42 Old Comment=1uF 25V New Comment=470nF 25V
+Change Component Comment : Designator=C8 Old Comment=3.3nF 25V New Comment=2.2nF 25V
+Change Component Comment : Designator=C9 Old Comment=3.3nF 25V New Comment=2.2nF 25V
+Change Component Comment : Designator=C10 Old Comment=3.3nF 25V New Comment=2.2nF 25V
+Change Component Comment : Designator=R77 Old Comment=10k 1% New Comment=0R2
+Change Component Comment : Designator=R78 Old Comment=10k 1% New Comment=0R2
+Change Component Comment : Designator=R81 Old Comment=10k 1% New Comment=1k 1%
+Change Component Comment : Designator=R82 Old Comment=10k 1% New Comment=1k 1%
+Change Component Comment : Designator=R75 Old Comment=100R 1% New Comment=1k 1%
+Change Component Comment : Designator=R76 Old Comment=100R 1% New Comment=1k 1%
+Change Component Comment : Designator=R79 Old Comment=100R 1% New Comment=10k 1%
+Change Component Comment : Designator=R80 Old Comment=100R 1% New Comment=10k 1%
+Change Component Comment : Designator=C23 Old Comment=100uF 10V New Comment=4.7uF 25V
+Change Component Comment : Designator=C24 Old Comment=100uF 10V New Comment=4.7uF 25V
+Change Component Comment : Designator=C25 Old Comment=100uF 10V New Comment=4.7uF 25V
+Change Component Comment : Designator=C26 Old Comment=100uF 10V New Comment=4.7uF 25V
+Change Component Comment : Designator=C1 Old Comment=100uF 20V New Comment=100uF 10V
+Change Component Comment : Designator=C2 Old Comment=100uF 20V New Comment=100uF 10V
+Change Component Comment : Designator=C3 Old Comment=100uF 20V New Comment=100uF 10V
+Change Component Comment : Designator=C15 Old Comment=100uF 20V New Comment=100uF 10V
+Change Component Comment : Designator=C16 Old Comment=100uF 20V New Comment=100uF 10V
+Change Component Comment : Designator=C17 Old Comment=100uF 20V New Comment=100uF 10V
+Change Component Comment : Designator=C18 Old Comment=100uF 20V New Comment=100uF 10V
+Change Component Comment : Designator=R116 Old Comment=? New Comment=1.37k 1%
+Change Component Comment : Designator=R118 Old Comment=? New Comment=1.37k 1%
+Change Component Comment : Designator=R122 Old Comment=? New Comment=1.37k 1%
+Change Component Comment : Designator=R124 Old Comment=? New Comment=1.37k 1%
+Change Component Comment : Designator=R115 Old Comment=? New Comment=3.74k 1%
+Change Component Comment : Designator=R117 Old Comment=? New Comment=3.74k 1%
+Change Component Comment : Designator=R121 Old Comment=? New Comment=3.74k 1%
+Change Component Comment : Designator=R123 Old Comment=? New Comment=3.74k 1%
+Change Component Comment : Designator=R119 Old Comment=? New Comment=100R 1%
+Change Component Comment : Designator=R120 Old Comment=? New Comment=100R 1%
+Change Component Comment : Designator=R125 Old Comment=? New Comment=100R 1%
+Change Component Comment : Designator=R126 Old Comment=? New Comment=100R 1%
+Change Component Comment : Designator=D4 Old Comment=B360B-E3/52T New Comment=DSS14U
+Change Component Comment : Designator=D5 Old Comment=B360B-E3/52T New Comment=DSS14U
+Change Component Comment : Designator=D6 Old Comment=B360B-E3/52T New Comment=DSS14U
+Change Component Comment : Designator=D7 Old Comment=B360B-E3/52T New Comment=DSS14U
+Change Component Comment : Designator=H1 Old Comment=M80-8280842 New Comment=M80-8281642
+Change Component Comment : Designator=H2 Old Comment=SM04B-SRSS-TBLFSN New Comment=SM04B-SRSS-TB
+Change Component Comment : Designator=H3 Old Comment=SM04B-SRSS-TBLFSN New Comment=SM04B-SRSS-TB
+Change component parameters: Designator = "C23" ("C23"); Footprint = "TANtalum_SMD_1206"; UniqueID = "\EKLPYMGQ" ("\EKLPYMGQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "TANtalum_SMD_1206"; UniqueID = "\GEDQCKKB" ("\GEDQCKKB")
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "TANtalum_SMD_1206"; UniqueID = "\CYVWOKVJ" ("\CYVWOKVJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "TANtalum_SMD_1206"; UniqueID = "\AXGOQHEA" ("\AXGOQHEA")
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=D12(sod-123)
+Added Component: Designator=D13(sod-123)
+Added Component: Designator=D14(sod-123)
+Added Component: Designator=D15(sod-123)
+Added Component: Designator=H6(M80-8281642)
+Add Component: Footprint Not Found 0530470310
+Add Component: Footprint Not Found HOLE_SPACE
+Add Component: Footprint Not Found HOLE_SPACE
+Add Component: Footprint Not Found HOLE_SPACE
+Add Component: Footprint Not Found HOLE_SPACE
+Add Component: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Add Component: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Add Component: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Add Component: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Added Component: Designator=R142(RES-SMD-1206)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R143(RES-SMD-1206)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R144(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R145(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=TVS13(sot23-12_3)
+Added Component: Designator=TVS24(sot23-12_3)
+Added Component: Designator=TVS25(sot23-12_3)
+Added Component: Designator=TVS26(sot23-12_3)
+Added Component: Designator=U22(SO8_EPAD)
+Added Component: Designator=U23(SO8_EPAD)
+Added Component: Designator=U24(SO8_EPAD)
+Added Component: Designator=U25(SO8_EPAD)
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=+5_LED Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=+5_LED Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=+5_LED Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=+5_LED Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=HEATER_1_K Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=HEATER_3_K Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=HEATER_1_K Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=HEATER_3_K Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C68-2
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C70-2
+Added Pin To Net: NetName=GND Pin=C87-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C88-2
+Added Pin To Net: NetName=GND Pin=C89-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C90-2
+Added Pin To Net: NetName=GND Pin=C95-1
+Added Pin To Net: NetName=GND Pin=C97-1
+Added Pin To Net: NetName=GND Pin=C101-1
+Added Pin To Net: NetName=HEATER_4_K Pin=C102-1
+Added Pin To Net: NetName=HEATER_2_K Pin=C103-1
+Added Pin To Net: NetName=GND Pin=C105-1
+Added Pin To Net: NetName=HEATER_4_K Pin=C106-1
+Added Pin To Net: NetName=GND Pin=C107-1
+Added Pin To Net: NetName=HEATER_2_K Pin=C108-1
+Added Pin To Net: NetName=GND Pin=C111-1
+Added Pin To Net: NetName=TEC_1_A Pin=C112-2
+Added Pin To Net: NetName=GND Pin=C113-1
+Added Pin To Net: NetName=TEC_3_A Pin=C114-2
+Added Pin To Net: NetName=GND Pin=C119-1
+Added Pin To Net: NetName=TEC_3_B Pin=C120-1
+Added Pin To Net: NetName=TEC_3_A Pin=C120-2
+Added Pin To Net: NetName=GND Pin=C121-1
+Added Pin To Net: NetName=TEC_1_B Pin=C122-1
+Added Pin To Net: NetName=TEC_1_A Pin=C122-2
+Added Pin To Net: NetName=GND Pin=C125-1
+Added Pin To Net: NetName=TEC_2_A Pin=C125-2
+Added Pin To Net: NetName=GND Pin=C127-1
+Added Pin To Net: NetName=TEC_4_A Pin=C127-2
+Added Pin To Net: NetName=GND Pin=C129-1
+Added Pin To Net: NetName=TEC_2_B Pin=C130-1
+Added Pin To Net: NetName=TEC_2_A Pin=C130-2
+Added Pin To Net: NetName=GND Pin=C131-1
+Added Pin To Net: NetName=TEC_4_B Pin=C132-1
+Added Pin To Net: NetName=TEC_4_A Pin=C132-2
+Added Pin To Net: NetName=HEATER_1_A Pin=D12-1
+Added Pin To Net: NetName=HEATER_1_A Pin=D13-1
+Added Pin To Net: NetName=HEATER_1_A Pin=D14-1
+Added Pin To Net: NetName=HEATER_1_A Pin=D15-1
+Added Pin To Net: NetName=NTC4- Pin=H1-1
+Added Pin To Net: NetName=TEC_4_B Pin=H1-2
+Added Pin To Net: NetName=3V3_EXP Pin=H1-3
+Added Pin To Net: NetName=TEC_4_A Pin=H1-4
+Added Pin To Net: NetName=NTC3- Pin=H1-5
+Added Pin To Net: NetName=TEC_3_B Pin=H1-6
+Added Pin To Net: NetName=3V3_EXP Pin=H1-7
+Added Pin To Net: NetName=TEC_3_A Pin=H1-8
+Added Pin To Net: NetName=NTC2- Pin=H1-9
+Added Pin To Net: NetName=TEC_2_B Pin=H1-10
+Added Pin To Net: NetName=3V3_EXP Pin=H1-11
+Added Pin To Net: NetName=TEC_2_A Pin=H1-12
+Added Pin To Net: NetName=NTC1- Pin=H1-13
+Added Pin To Net: NetName=TEC_1_B Pin=H1-14
+Added Pin To Net: NetName=3V3_EXP Pin=H1-15
+Added Pin To Net: NetName=TEC_1_A Pin=H1-16
+Added Pin To Net: NetName=GND_BUS Pin=H4-1
+Added Pin To Net: NetName=VBUS Pin=H4-11
+Added Pin To Net: NetName=12_EXP Pin=H4-23
+Added Pin To Net: NetName=GND_12_EXP Pin=H4-24
+Added Pin To Net: NetName=GND_BUS Pin=H4-27
+Added Pin To Net: NetName=GND_BUS Pin=H4-28
+Added Pin To Net: NetName=HEATER_4_K Pin=H6-1
+Added Pin To Net: NetName=HEATER_3_K Pin=H6-3
+Added Pin To Net: NetName=HEATER_2_K Pin=H6-5
+Added Pin To Net: NetName=HEATER_1_K Pin=H6-7
+Added Pin To Net: NetName=IR_LED_4- Pin=H6-9
+Added Pin To Net: NetName=IR_LED_4+ Pin=H6-10
+Added Pin To Net: NetName=IR_LED_3- Pin=H6-11
+Added Pin To Net: NetName=IR_LED_3+ Pin=H6-12
+Added Pin To Net: NetName=IR_LED_2- Pin=H6-13
+Added Pin To Net: NetName=IR_LED_2+ Pin=H6-14
+Added Pin To Net: NetName=IR_LED_1- Pin=H6-15
+Added Pin To Net: NetName=IR_LED_1+ Pin=H6-16
+Add Pin To Net: Unknown Pin: Pin H8-1
+Add Pin To Net: Unknown Pin: Pin L10-2
+Add Pin To Net: Unknown Pin: Pin L11-2
+Add Pin To Net: Unknown Pin: Pin L12-2
+Add Pin To Net: Unknown Pin: Pin L13-2
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin LED4-1
+Add Pin To Net: Unknown Pin: Pin LED4-2
+Add Pin To Net: Unknown Pin: Pin LED5-1
+Add Pin To Net: Unknown Pin: Pin LED5-2
+Add Pin To Net: Unknown Pin: Pin LED6-1
+Add Pin To Net: Unknown Pin: Pin LED6-2
+Add Pin To Net: Unknown Pin: Pin LED7-1
+Add Pin To Net: Unknown Pin: Pin LED7-2
+Added Pin To Net: NetName=EXP_UART_RX Pin=R26-1
+Added Pin To Net: NetName=EXP_UART_TX Pin=R28-1
+Added Pin To Net: NetName=HEATER_PWM_1 Pin=R75-2
+Added Pin To Net: NetName=HEATER_PWM_3 Pin=R76-2
+Added Pin To Net: NetName=HEATER_1_A Pin=R77-2
+Added Pin To Net: NetName=HEATER_1_A Pin=R78-2
+Added Pin To Net: NetName=GND Pin=R79-1
+Added Pin To Net: NetName=HEATER_PWM_1 Pin=R79-2
+Added Pin To Net: NetName=GND Pin=R80-1
+Added Pin To Net: NetName=HEATER_PWM_3 Pin=R80-2
+Added Pin To Net: NetName=HEATER_PWM_2 Pin=R81-2
+Added Pin To Net: NetName=HEATER_PWM_4 Pin=R82-2
+Added Pin To Net: NetName=HEATER_1_A Pin=R142-2
+Added Pin To Net: NetName=HEATER_1_A Pin=R143-2
+Added Pin To Net: NetName=GND Pin=R144-1
+Added Pin To Net: NetName=HEATER_PWM_2 Pin=R144-2
+Added Pin To Net: NetName=GND Pin=R145-1
+Added Pin To Net: NetName=HEATER_PWM_4 Pin=R145-2
+Added Pin To Net: NetName=HEATER_1_K Pin=TVS13-2
+Added Pin To Net: NetName=GND Pin=TVS13-3
+Added Pin To Net: NetName=NetJ2_4 Pin=TVS20-1
+Added Pin To Net: NetName=NetJ2_3 Pin=TVS20-2
+Added Pin To Net: NetName=NetJ2_2 Pin=TVS23-1
+Added Pin To Net: NetName=3V3_EXP Pin=TVS23-2
+Added Pin To Net: NetName=HEATER_3_K Pin=TVS24-2
+Added Pin To Net: NetName=GND Pin=TVS24-3
+Added Pin To Net: NetName=HEATER_4_K Pin=TVS25-2
+Added Pin To Net: NetName=GND Pin=TVS25-3
+Added Pin To Net: NetName=HEATER_2_K Pin=TVS26-2
+Added Pin To Net: NetName=GND Pin=TVS26-3
+Added Pin To Net: NetName=TEC_1_SWEN Pin=U19-1
+Added Pin To Net: NetName=EF_TEC_AUX Pin=U19-2
+Added Pin To Net: NetName=EF_TEC_EN Pin=U19-3
+Added Pin To Net: NetName=TEC_1_ADC Pin=U19-15
+Added Pin To Net: NetName=TEC_2_ADC Pin=U19-16
+Added Pin To Net: NetName=TEC_3_ADC Pin=U19-17
+Added Pin To Net: NetName=TEC_4_ADC Pin=U19-18
+Added Pin To Net: NetName=EXP_RS485_DE Pin=U19-24
+Added Pin To Net: NetName=EXP_RS485_TX Pin=U19-25
+Added Pin To Net: NetName=EXP_RS485_RX Pin=U19-26
+Added Pin To Net: NetName=EXP_RS485_R\E\ Pin=U19-29
+Added Pin To Net: NetName=EF_TEC_ADC Pin=U19-30
+Added Pin To Net: NetName=EF_HEATER_ADC Pin=U19-31
+Added Pin To Net: NetName=EF_LED_ADC Pin=U19-32
+Added Pin To Net: NetName=ADC_TEMP1 Pin=U19-33
+Added Pin To Net: NetName=ADC_TEMP2 Pin=U19-34
+Added Pin To Net: NetName=ADC_TEMP4 Pin=U19-35
+Added Pin To Net: NetName=ADC_TEMP3 Pin=U19-36
+Added Pin To Net: NetName=WD_DONE Pin=U19-37
+Added Pin To Net: NetName=EF_HEATER_AUX Pin=U19-38
+Added Pin To Net: NetName=EF_HEATER_EN Pin=U19-39
+Added Pin To Net: NetName=HEATER_PWM_4 Pin=U19-40
+Added Pin To Net: NetName=HEATER_PWM_3 Pin=U19-42
+Added Pin To Net: NetName=HEATER_PWM_2 Pin=U19-44
+Added Pin To Net: NetName=HEATER_PWM_1 Pin=U19-45
+Added Pin To Net: NetName=EF_LED_AUX Pin=U19-51
+Added Pin To Net: NetName=EF_LED_EN Pin=U19-52
+Added Pin To Net: NetName=LED_B Pin=U19-60
+Added Pin To Net: NetName=LED_G Pin=U19-61
+Added Pin To Net: NetName=IR_LED_4_PWM Pin=U19-63
+Added Pin To Net: NetName=IR_LED_3_PWM Pin=U19-64
+Added Pin To Net: NetName=IR_LED_2_PWM Pin=U19-65
+Added Pin To Net: NetName=IR_LED_1_PWM Pin=U19-66
+Added Pin To Net: NetName=SENSOR2_EN Pin=U19-67
+Added Pin To Net: NetName=SENSOR1_EN Pin=U19-68
+Added Pin To Net: NetName=TEC_4_EN Pin=U19-80
+Added Pin To Net: NetName=TEC_2_SWEN Pin=U19-81
+Added Pin To Net: NetName=TEC_2_C\S\ Pin=U19-82
+Added Pin To Net: NetName=TEC_3_EN Pin=U19-83
+Added Pin To Net: NetName=TEC_3_SWEN Pin=U19-84
+Added Pin To Net: NetName=TEC_3_C\S\ Pin=U19-85
+Added Pin To Net: NetName=TEC_2_EN Pin=U19-86
+Added Pin To Net: NetName=TEC_4_SWEN Pin=U19-87
+Added Pin To Net: NetName=TEC_4_C\S\ Pin=U19-88
+Added Pin To Net: NetName=TEC_SCK Pin=U19-89
+Added Pin To Net: NetName=TEC_MISO Pin=U19-90
+Added Pin To Net: NetName=TEC_MOSI Pin=U19-91
+Added Pin To Net: NetName=TEC_1_C\S\ Pin=U19-97
+Added Pin To Net: NetName=TEC_1_EN Pin=U19-98
+Added Pin To Net: NetName=GND Pin=U22-1
+Added Pin To Net: NetName=GND Pin=U22-2
+Added Pin To Net: NetName=HEATER_1_A Pin=U22-6
+Added Pin To Net: NetName=GND Pin=U22-EPAD
+Added Pin To Net: NetName=GND Pin=U23-1
+Added Pin To Net: NetName=GND Pin=U23-2
+Added Pin To Net: NetName=HEATER_1_A Pin=U23-6
+Added Pin To Net: NetName=GND Pin=U23-EPAD
+Added Pin To Net: NetName=GND Pin=U24-1
+Added Pin To Net: NetName=GND Pin=U24-2
+Added Pin To Net: NetName=HEATER_1_A Pin=U24-6
+Added Pin To Net: NetName=GND Pin=U24-EPAD
+Added Pin To Net: NetName=GND Pin=U25-1
+Added Pin To Net: NetName=GND Pin=U25-2
+Added Pin To Net: NetName=HEATER_1_A Pin=U25-6
+Added Pin To Net: NetName=GND Pin=U25-EPAD
+Change Net Name : Old Net Name=HEATER_1_A New Net Name=+5_HEATER
+Added Pin To Net: NetName=HEATER_1_A Pin=C54-2
+Added Pin To Net: NetName=HEATER_1_A Pin=C62-2
+Added Pin To Net: NetName=HEATER_1_A Pin=H6-8
+Added Pin To Net: NetName=HEATER_1_A Pin=R78-1
+Added Pin To Net: NetName=HEATER_1_A Pin=TVS13-1
+Added Pin To Net: NetName=HEATER_1_A Pin=U22-3
+Added Net: Name=HEATER_1_A
+Added Pin To Net: NetName=HEATER_2_A Pin=C103-2
+Added Pin To Net: NetName=HEATER_2_A Pin=C108-2
+Added Pin To Net: NetName=HEATER_2_A Pin=H6-6
+Added Pin To Net: NetName=HEATER_2_A Pin=R143-1
+Added Pin To Net: NetName=HEATER_2_A Pin=TVS26-1
+Added Pin To Net: NetName=HEATER_2_A Pin=U24-3
+Added Net: Name=HEATER_2_A
+Added Pin To Net: NetName=HEATER_3_A Pin=C56-2
+Added Pin To Net: NetName=HEATER_3_A Pin=C64-2
+Added Pin To Net: NetName=HEATER_3_A Pin=H6-4
+Added Pin To Net: NetName=HEATER_3_A Pin=R77-1
+Added Pin To Net: NetName=HEATER_3_A Pin=TVS24-1
+Added Pin To Net: NetName=HEATER_3_A Pin=U23-3
+Added Net: Name=HEATER_3_A
+Added Pin To Net: NetName=HEATER_4_A Pin=C102-2
+Added Pin To Net: NetName=HEATER_4_A Pin=C106-2
+Added Pin To Net: NetName=HEATER_4_A Pin=H6-2
+Added Pin To Net: NetName=HEATER_4_A Pin=R142-1
+Added Pin To Net: NetName=HEATER_4_A Pin=TVS25-1
+Added Pin To Net: NetName=HEATER_4_A Pin=U25-3
+Added Net: Name=HEATER_4_A
+Added Pin To Net: NetName=NetC48_2 Pin=C48-2
+Added Pin To Net: NetName=NetC48_2 Pin=R75-1
+Added Pin To Net: NetName=NetC48_2 Pin=U22-5
+Added Net: Name=NetC48_2
+Added Pin To Net: NetName=NetC50_2 Pin=C50-2
+Added Pin To Net: NetName=NetC50_2 Pin=R76-1
+Added Pin To Net: NetName=NetC50_2 Pin=U23-5
+Added Net: Name=NetC50_2
+Added Pin To Net: NetName=NetC96_2 Pin=C96-2
+Added Pin To Net: NetName=NetC96_2 Pin=R81-1
+Added Pin To Net: NetName=NetC96_2 Pin=U24-5
+Added Net: Name=NetC96_2
+Added Pin To Net: NetName=NetC98_2 Pin=C98-2
+Added Pin To Net: NetName=NetC98_2 Pin=R82-1
+Added Pin To Net: NetName=NetC98_2 Pin=U25-5
+Added Net: Name=NetC98_2
+Added Pin To Net: NetName=NetC104_2 Pin=C104-2
+Added Pin To Net: NetName=NetC104_2 Pin=U16-2
+Added Net: Name=NetC104_2
+Added Pin To Net: NetName=NetC126_2 Pin=C126-2
+Added Pin To Net: NetName=NetC126_2 Pin=U17-2
+Added Net: Name=NetC126_2
+Added Pin To Net: NetName=NetC128_2 Pin=C128-2
+Added Pin To Net: NetName=NetC128_2 Pin=U18-2
+Added Net: Name=NetC128_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=U22-7
+Added Pin To Net: NetName=NetD12_2 Pin=U22-8
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=U23-7
+Added Pin To Net: NetName=NetD13_2 Pin=U23-8
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=U24-7
+Added Pin To Net: NetName=NetD14_2 Pin=U24-8
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD15_2 Pin=U25-7
+Added Pin To Net: NetName=NetD15_2 Pin=U25-8
+Added Net: Name=NetD15_2
+Added Pin To Net: NetName=NetH8_2 Pin=R26-2
+Added Pin To Net: NetName=NetH8_2 Pin=TVS22-2
+Added Net: Name=NetH8_2
+Added Pin To Net: NetName=NetH8_3 Pin=R28-2
+Added Pin To Net: NetName=NetH8_3 Pin=TVS22-1
+Added Net: Name=NetH8_3
+Added Net: Name=PROTECT_EMI
+Change Class Name : Old Net Name=ISO_COMMUNICATE New Net Name=ISO_COMMUNICATION
+Added Member To Class: ClassName=HEATER Member=Component C22 4.7uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C26 4.7uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C34 0.1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C36 0.1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C48 470nF 25V
+Added Member To Class: ClassName=HEATER Member=Component C50 470nF 25V
+Added Member To Class: ClassName=HEATER Member=Component C54 1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C56 1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C62 1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C64 1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C68 4.7uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C70 4.7uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C88 0.1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C90 0.1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C96 470nF 25V
+Added Member To Class: ClassName=HEATER Member=Component C98 470nF 25V
+Added Member To Class: ClassName=HEATER Member=Component C102 1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C103 1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C106 1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C108 1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component D12 DSS14U
+Added Member To Class: ClassName=HEATER Member=Component D13 DSS14U
+Added Member To Class: ClassName=HEATER Member=Component D14 DSS14U
+Added Member To Class: ClassName=HEATER Member=Component D15 DSS14U
+Added Member To Class: ClassName=HEADERSchDoc Member=Component H1 M80-8281642
+Added Member To Class: ClassName=HEADERSchDoc Member=Component H6 M80-8281642
+Add Class Member: Failed to add class member : Component H8 0530470310
+Add Class Member: Failed to add class member : Component Hole1 hole_space
+Add Class Member: Failed to add class member : Component Hole2 hole_space
+Add Class Member: Failed to add class member : Component Hole3 hole_space
+Add Class Member: Failed to add class member : Component Hole4 hole_space
+Add Class Member: Failed to add class member : Component L10 82uF
+Add Class Member: Failed to add class member : Component L11 82uF
+Add Class Member: Failed to add class member : Component L12 82uF
+Add Class Member: Failed to add class member : Component L13 82uF
+Added Member To Class: ClassName=HEATER Member=Component R142 0R2
+Added Member To Class: ClassName=HEATER Member=Component R143 0R2
+Added Member To Class: ClassName=HEATER Member=Component R144 10k 1%
+Added Member To Class: ClassName=HEATER Member=Component R145 10k 1%
+Added Member To Class: ClassName=HEATER Member=Component TVS13 S2305
+Added Member To Class: ClassName=HEATER Member=Component TVS24 S2305
+Added Member To Class: ClassName=HEATER Member=Component TVS25 S2305
+Added Member To Class: ClassName=HEATER Member=Component TVS26 S2305
+Added Member To Class: ClassName=HEATER Member=Component U22 AL8843SP-13
+Added Member To Class: ClassName=HEATER Member=Component U23 AL8843SP-13
+Added Member To Class: ClassName=HEATER Member=Component U24 AL8843SP-13
+Added Member To Class: ClassName=HEATER Member=Component U25 AL8843SP-13
+Added Rule: Name=Schematic Supply Nets_10

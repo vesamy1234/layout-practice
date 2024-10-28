@@ -1,0 +1,36 @@
+Change Footprint: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Change Footprint: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Change Footprint: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Change Footprint: Footprint Not Found L-SMD-M-4.8x4.8x2.8mm
+Add Component: Footprint Not Found 0530470310
+Add Component: Footprint Not Found HOLE_SPACE
+Add Component: Footprint Not Found HOLE_SPACE
+Add Component: Footprint Not Found HOLE_SPACE
+Add Component: Footprint Not Found HOLE_SPACE
+Add Pin To Net: Unknown Pin: Pin H8-1
+Add Pin To Net: Unknown Pin: Pin H8-2
+Add Pin To Net: Unknown Pin: Pin H8-3
+Add Pin To Net: Unknown Pin: Pin Hole1-1
+Add Pin To Net: Unknown Pin: Pin Hole2-1
+Add Pin To Net: Unknown Pin: Pin Hole3-1
+Add Pin To Net: Unknown Pin: Pin Hole4-1
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin LED4-1
+Add Pin To Net: Unknown Pin: Pin LED4-2
+Add Pin To Net: Unknown Pin: Pin LED5-1
+Add Pin To Net: Unknown Pin: Pin LED5-2
+Add Pin To Net: Unknown Pin: Pin LED6-1
+Add Pin To Net: Unknown Pin: Pin LED6-2
+Add Pin To Net: Unknown Pin: Pin LED7-1
+Add Pin To Net: Unknown Pin: Pin LED7-2
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C105 47nF 25V
+Add Class Member: Failed to add class member : Component H8 0530470310
+Add Class Member: Failed to add class member : Component Hole1 hole_space
+Add Class Member: Failed to add class member : Component Hole2 hole_space
+Add Class Member: Failed to add class member : Component Hole3 hole_space
+Add Class Member: Failed to add class member : Component Hole4 hole_space

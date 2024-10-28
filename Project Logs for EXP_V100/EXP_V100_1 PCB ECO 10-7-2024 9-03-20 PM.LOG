@@ -1,0 +1,38 @@
+Add Pin To Net: Unknown Pin: Pin H8-1
+Add Pin To Net: Unknown Pin: Pin H8-2
+Add Pin To Net: Unknown Pin: Pin H8-3
+Add Pin To Net: Unknown Pin: Pin Hole1-1
+Add Pin To Net: Unknown Pin: Pin Hole2-1
+Add Pin To Net: Unknown Pin: Pin Hole3-1
+Add Pin To Net: Unknown Pin: Pin Hole4-1
+Added Pin To Net: NetName=NetD13_2 Pin=L10-1
+Added Pin To Net: NetName=HEATER_3_K Pin=L10-2
+Added Pin To Net: NetName=NetD12_2 Pin=L11-1
+Added Pin To Net: NetName=HEATER_1_K Pin=L11-2
+Added Pin To Net: NetName=NetD14_2 Pin=L12-1
+Added Pin To Net: NetName=HEATER_2_K Pin=L12-2
+Added Pin To Net: NetName=NetD15_2 Pin=L13-1
+Added Pin To Net: NetName=HEATER_4_K Pin=L13-2
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin LED4-1
+Add Pin To Net: Unknown Pin: Pin LED4-2
+Add Pin To Net: Unknown Pin: Pin LED5-1
+Add Pin To Net: Unknown Pin: Pin LED5-2
+Add Pin To Net: Unknown Pin: Pin LED6-1
+Add Pin To Net: Unknown Pin: Pin LED6-2
+Add Pin To Net: Unknown Pin: Pin LED7-1
+Add Pin To Net: Unknown Pin: Pin LED7-2
+Add Class Member: Failed to add class member : Component H8 0530470310
+Add Class Member: Failed to add class member : Component Hole1 hole_space
+Add Class Member: Failed to add class member : Component Hole2 hole_space
+Add Class Member: Failed to add class member : Component Hole3 hole_space
+Add Class Member: Failed to add class member : Component Hole4 hole_space
+Added Member To Class: ClassName=HEATER Member=Component L10 82uF
+Added Member To Class: ClassName=HEATER Member=Component L11 82uF
+Added Member To Class: ClassName=HEATER Member=Component L12 82uF
+Added Member To Class: ClassName=HEATER Member=Component L13 82uF

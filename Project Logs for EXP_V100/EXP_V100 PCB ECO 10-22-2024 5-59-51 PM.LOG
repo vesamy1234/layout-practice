@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=HEADERSchDoc Member=Hole1
+Removed Member From Class: ClassName=HEADERSchDoc Member=Hole2
+Removed Member From Class: ClassName=HEADERSchDoc Member=Hole3
+Removed Member From Class: ClassName=HEADERSchDoc Member=Hole4
+Change Component Comment : Designator=C8 Old Comment=3.3nF 25V New Comment=2.2nF 25V
+Change Component Comment : Designator=C9 Old Comment=3.3nF 25V New Comment=2.2nF 25V
+Change Component Comment : Designator=C10 Old Comment=3.3nF 25V New Comment=2.2nF 25V
+Added Member To Class: ClassName=LED Member=Component L1 82uF
+Added Member To Class: ClassName=LED Member=Component L2 82uF
+Added Member To Class: ClassName=LED Member=Component L3 82uF
+Added Member To Class: ClassName=LED Member=Component L4 82uF
+Added Member To Class: ClassName=HEATER Member=Component L10 82uF
+Added Member To Class: ClassName=HEATER Member=Component L11 82uF
+Added Member To Class: ClassName=HEATER Member=Component L12 82uF
+Added Member To Class: ClassName=HEATER Member=Component L13 82uF
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
